@@ -29,7 +29,7 @@ Structure:
 
 Following the September 2023 Board of Trustees meetings, The Peralta Project aims to turn the “2%” budgetary issue into a student homework assignment for Laney College's artificial intelligence and machine learning courses.
 
-This would allow students to analyze and fix the PCCD’s budgetary issues while recovering and possibly generating more equity with every successful student project.
+This would allow students to analyze and fix the Peralta Community College District’s budgetary issues while recovering and possibly generating more equity with every successful student project.
 
 September 14th Meeting:
 	

@@ -37,7 +37,7 @@ The project is conducted in four phases:
 
 
 
-	[Phase One: Direction and Organization.]
+	#Phase One: Direction and Organization
 	Phase One will require the allocation of assets and requisitions needed to execute the project. 
  	These assets include and are not limited to potential project directors and supervisors, data administrators and budget analysts, as well as extracurricular administrators.
 

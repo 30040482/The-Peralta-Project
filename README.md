@@ -2,8 +2,7 @@
 
 Proof of Concept: Financial Deficit Recovery Tool
 
-ID 30040402:
-The Peralta Project
+ID 30040402
 
 Structure:
 

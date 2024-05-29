@@ -1,9 +1,5 @@
 # The-Peralta-Project
 
-Proof of Concept: Financial Deficit Recovery Tool
-
-ID 30040402
-
 Structure:
 
 	The Project Directors

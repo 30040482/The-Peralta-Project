@@ -14,18 +14,18 @@ Structure:
 
 
 	The Data Analysis Department
-		Budget Analyst: PFT President, Jeff Sanceri 
-		Data Administrator: Interim Vice Chancellor of Finance and Administration, Dr. Nathaniel Jones
+		Budget Analyst: PFT President, Jeff Sanceri.
+		Data Administrator: Interim Vice Chancellor of Finance and Administration, Dr. Nathaniel Jones.
 
 
 	The Bias and Risk Mitigation Department
-		Student Ethics and Communication Supervisor: Student Trustees
-		Board Ethics and Communication Supervisor: Executive Director of Marketing and Communication, Mark Johnson
+		Student Ethics and Communication Supervisor: Student Trustees.
+		Board Ethics and Communication Supervisor: Executive Director of Marketing and Communication, Mark Johnson.
 
 
 	The Implementation and Application Department
-		Curriculum Development Team: CIS-5 and CIS-96F
-		Extracurricular Administration Team: ComAndCode, BeeLikeCoders, CIS Lab.
+		Curriculum Development Team: CIS-5 and CIS-96F staff.
+		Extracurricular Administration Team: ComAndCode, BeeLikeCoders, and CIS staff.
 
 Following the September 2023 Board of Trustees meetings, The Peralta Project aims to turn the “2%” budgetary issue into a student homework assignment for Laney College's artificial intelligence and machine learning courses.
 

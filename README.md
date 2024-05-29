@@ -27,18 +27,20 @@ Structure:
 		Curriculum Development Team: 
 		Extracurricular Administration Team: 
 
-
-
 Following the September 2023 Board of Trustees meetings, The Peralta Project aims to turn the “2%” budgetary issue into a student homework assignment for artificial intelligence and machine learning courses.
 
 This would allow students to analyze and fix the PCCD’s budgetary issues while recovering and possibly generating more equity with every successful student project.
 
-	September 14th Meeting: https://www.youtube.com/watch?v=JcLODksB-1I&t=15s
-	September 26th Meeting: https://www.youtube.com/watch?v=9WaZtCaSKtI
+September 14th Meeting:
+	
+ 	https://www.youtube.com/watch?v=JcLODksB-1I&t=15s
+  
+September 26th Meeting: 
+	
+ 	https://www.youtube.com/watch?v=9WaZtCaSKtI
+
 
 The project is conducted in four phases:
-
-
 
 	Phase One: Direction and Organization.
  
@@ -61,3 +63,4 @@ The project is conducted in four phases:
 	Phase Four: Implementation and Application.
  
   	TSV and CSV files provided to the Curriculum Development Team can then be integrated into the CIS-5 and CIS-96F coursework as a dataset that corresponds to PCCD-focused budgetary issues, allowing for student homework assignments and exams to serve as a platform for solutions to the PCCD’s current and future budgetary inquiries and scenarios in real time. Developments, projects, and assignments that provide potential solutions can be further articulated by the Extracurricular Administration Team. With departments like the CIS Lab, BeeLikeCoders, and comAndCode, students can be recognized for their achievements as they recover equity for the PCCD in real time.
+   

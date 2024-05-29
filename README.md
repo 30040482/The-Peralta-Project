@@ -24,8 +24,8 @@ Structure:
 
 
 	The Implementation and Application Department
-		Curriculum Development Team: 
-		Extracurricular Administration Team: 
+		Curriculum Development Team: CIS-5 and CIS-96F
+		Extracurricular Administration Team: BeeLikeCoders, ComAndCode, CIS Lab.
 
 Following the September 2023 Board of Trustees meetings, The Peralta Project aims to turn the “2%” budgetary issue into a student homework assignment for Laney College's artificial intelligence and machine learning courses.
 

@@ -62,5 +62,7 @@ The project is conducted in four phases:
 
 	Phase Four: Implementation and Application.
  
-  	TSV and CSV files provided to the Curriculum Development Team can then be integrated into the CIS-5 and CIS-96F coursework as a dataset that corresponds to PCCD-focused budgetary issues, allowing for student homework assignments and exams to serve as a platform for solutions to the PCCD’s current and future budgetary inquiries and scenarios in real time. Developments, projects, and assignments that provide potential solutions can be further articulated by the Extracurricular Administration Team. With departments like the CIS Lab, BeeLikeCoders, and comAndCode, students can be recognized for their achievements as they recover equity for the PCCD in real time.
+  	TSV and CSV files provided to the Curriculum Development Team can then be integrated into the CIS-5 and CIS-96F coursework as a dataset that corresponds to PCCD-focused budgetary issues. 
+   	Allowing for student homework assignments and exams to serve as a platform for solutions to the PCCD’s current and future budgetary inquiries/scenarios in real time. 
+    	Developments, projects, and assignments that provide potential solutions can be further articulated by the Extracurricular Administration Team. With departments like the CIS Lab, BeeLikeCoders, and comAndCode, students can be recognized for their achievements as they recover equity for the PCCD in real time.
    

@@ -33,7 +33,8 @@ Following the September 2023 Board of Trustees meetings, The Peralta Project aim
 
 This would allow students to analyze and fix the PCCD’s budgetary issues while recovering and possibly generating more equity with every successful student project.
 
-	
+	September 14th Meeting: https://www.youtube.com/watch?v=JcLODksB-1I&t=15s
+	September 26th Meeting: https://www.youtube.com/watch?v=9WaZtCaSKtI
 
 The project is conducted in four phases:
 

@@ -38,15 +38,18 @@ The project is conducted in four phases:
 
 
 	Phase One: Direction and Organization
-	Phase One will require the allocation of assets and requisitions needed to execute the project. These assets include and are not limited to potential project directors and supervisors, data administrators and budget analysts, as well as extracurricular administrators.
+	Phase One will require the allocation of assets and requisitions needed to execute the project. 
+ 	These assets include and are not limited to potential project directors and supervisors, data administrators and budget analysts, as well as extracurricular administrators.
 
 
 	Phase Two: Data Analysis
- 	Phase two will have members from the PCCD provide the financial data required to execute the project. The integrity of the data will then be reviewed by members of the PFT, ASLC, ASBCC, ASMC, and ASCOA for a final approval by the Bias and Risk Mitigation Department in order to reinforce its accuracy and transparency.
+ 	Phase two will have members from the PCCD provide the financial data required to execute the project. 
+  	The integrity of the data will then be reviewed by members of the PFT, ASLC, ASBCC, ASMC, and ASCOA for a final approval by the Bias and Risk Mitigation Department in order to reinforce its accuracy and transparency.
 
 
 	Phase Three: Bias and Risk Mitigation
- 	All approved datasets submitted by the PFT, ASLC, ASBCC, ASMC, and ASCOA would receive a final approval from the Bias and Risk Mitigation Department before being submitted to the Implementation and Application Department. The final approval from the Bias and Risk Mitigation Department must be motioned by the project directors in order to initiate the development of congruent data-frames extracted from TSV files that are used by PCCD spreadsheet applications.
+ 	All approved datasets submitted by the PFT, ASLC, ASBCC, ASMC, and ASCOA would receive a final approval from the Bias and Risk Mitigation Department before being submitted to the Implementation and Application Department. 
+  	The final approval from the Bias and Risk Mitigation Department must be motioned by the project directors in order to initiate the development of congruent data-frames extracted from TSV files that are used by PCCD spreadsheet applications.
 
 
 	Phase Four: Implementation and Application

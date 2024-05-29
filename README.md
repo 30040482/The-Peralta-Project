@@ -27,7 +27,7 @@ Structure:
 		Curriculum Development Team: CIS-5 and CIS-96F staff.
 		Extracurricular Administration Team: ComAndCode, BeeLikeCoders, and CIS staff.
 
-Following the September 2023 Board of Trustees meetings, The Peralta Project aims to turn the “2%” budgetary issue into student homework assignments, exam questions, and tutoring exercise for Laney College's artificial intelligence and machine learning courses.
+Following the September 2023 Board of Trustees meetings, The Peralta Project aims to turn the “2%” budgetary issue into student homework assignments, exam questions, and tutoring exercises for Laney College's artificial intelligence and machine learning courses.
 
 This would allow students to analyze and fix the Peralta Community College District’s budgetary issues while recovering equity with every successful student project.
 

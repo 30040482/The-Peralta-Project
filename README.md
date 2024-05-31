@@ -9,7 +9,7 @@ Structure:
 
 	The Data Analysis Department
 		Budget Analyst: PFT President, Jeff Sanceri.
-		Data Administrator:
+		Data Administrator: Interim Vice Chancellor of Finance & Administration, Dr. Nathaniel Jones III.
 
 
 	The Bias and Risk Mitigation Department

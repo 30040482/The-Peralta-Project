@@ -8,8 +8,8 @@ Structure:
 
 
 	The Data Analysis Department
-		Budget Analyst: PFT President, Jeff Sanceri.
-		Data Administrator: Interim Vice Chancellor of Finance and Administration, Dr. Nathaniel Jones.
+		Budget Analyst: 
+		Data Administrator: 
 
 
 	The Bias and Risk Mitigation Department
@@ -18,10 +18,10 @@ Structure:
 
 
 	The Implementation and Application Department
-		Curriculum Development Team: CIS-5 and CIS-96F staff.
-		Extracurricular Administration Team: ComAndCode, BeeLikeCoders, and CIS staff.
+		Curriculum Development Team: 
+		Extracurricular Administration Team: 
 
-Following the September 2023 Board of Trustees meetings, The Peralta Project aims to turn the “2%” budgetary issue into student homework assignments, exam questions, and tutoring exercises for Laney College's artificial intelligence and business administration courses.
+Following the September 2023 Board of Trustees meetings, The Peralta Project aims to turn the Peralta Community College District's “2%” budgetary issue into student homework assignments, exam questions, and tutoring exercises for Laney College's artificial intelligence and business administration courses.
 
 This would allow students to analyze and fix the Peralta Community College District’s budgetary issues while recovering equity with every successful student project.
 

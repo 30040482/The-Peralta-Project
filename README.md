@@ -8,13 +8,13 @@ Structure:
 
 
 	The Data Analysis Department
-		Budget Analyst: 
-		Data Administrator: 
+		Budget Analyst: PFT President, Jeff Sanceri.
+		Data Administrator:
 
 
 	The Bias and Risk Mitigation Department
 		Student Ethics and Communication Supervisor: 
-		Board Ethics and Communication Supervisor:
+		Board Ethics and Communication Supervisor: Executive Director of Marketing and Communication, Mark Johnson.
 
 
 	The Implementation and Application Department

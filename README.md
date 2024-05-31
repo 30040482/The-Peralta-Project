@@ -13,7 +13,7 @@ Structure:
 
 
 	The Bias and Risk Mitigation Department
-		Student Ethics and Communication Supervisor: 
+		Student Ethics and Communication Supervisors: Student Trustees.
 		Board Ethics and Communication Supervisor: Executive Director of Marketing and Communication, Mark Johnson.
 
 

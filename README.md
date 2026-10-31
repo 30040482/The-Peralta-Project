@@ -1,4 +1,6 @@
 # The-Peralta-Project
+Luis Angel Soberanis-Pacheco
+
 
 Structure:
 
